@@ -1,9 +1,9 @@
-# security-assessment-report-for-cti-junior.com
-CTI califonia training  institution
+# Security-assessment-report-for-cti-junior.com
+CTI califonia training institution
 # Security Assessment Report: cti-junior.com
 
 **Assessment Date:** 2025-06-25  
-**Tester:** kayon-assefa  
+**Tester:** Kayon-Assefa  
 **Scope:** http://cti-junior.com
 
 ---
