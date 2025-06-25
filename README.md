@@ -1,4 +1,4 @@
-# git-adsecurity-assessment-report-for-cti-junior.com
+# security-assessment-report-for-cti-junior.com
 CTI califonia training  institution
 # Security Assessment Report: cti-junior.com
 
